@@ -1,4 +1,4 @@
-### AVENTER UG (haftungsbeschränkt)
+# AVENTER UG (haftungsbeschränkt)
 
 #### 🤷 Who we are:
 
