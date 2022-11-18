@@ -18,7 +18,6 @@ We are just me (Andreas), a single person. 😄
 - [Apache Mesos provider for Apache Airflow](https://www.aventer.biz/products/apache-airflow/)
 - [Apache Mesos provider for Traefik](https://www.aventer.biz/products/traefik/)
 - [Docker Volume service for S3](https://www.aventer.biz/products/docker-volume-s3/)
-- [Docker Volume service for RBD](https://www.aventer.biz/products/docker-volume-rdb/)
 - [Docker Extension for Apache Mesos](https://www.aventer.biz/products/docker-mesos-extension/)
 - [Firecracker executor for Apache Mesos](https://www.aventer.biz/products/mesos-firecracker/)
 
