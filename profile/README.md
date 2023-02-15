@@ -42,3 +42,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### 😊 Sponsors
+
+Thanks so much to my sponsors. 
+
+- (Private) enfyrneaux
+- (Company) FERP
