@@ -10,6 +10,8 @@ We are just me (Andreas), a single person. 😄
   - Mastodon: https://mastodon.aventer.biz/@andreas    
   - Matrix Chat: https://matrix.to/#/#support:matrix.aventer.biz?via=matrix.aventer.biz
   - Xing: https://www.xing.com/profile/Andreas_Peters35
+  - LinkedIn: https://www.linkedin.com/in/aventer-ug/
+  - Docker Hub: https://hub.docker.com/u/avhost
 
 #### 🔭Products under development 
 
