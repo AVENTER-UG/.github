@@ -16,6 +16,7 @@ We are just me (Andreas), a single person. 😄
 
 #### 🔭Products under development 
 
+- [ClusterD, the continues developing of Apache Mesos](https://github.com/m3scluster/clusterd)
 - [M3s, the Kubernetes framework for Apache Mesos](https://www.aventer.biz/products/m3s/)
 - [Mesos-Compose framework for Apache Mesos to replace Marathon](https://www.aventer.biz/products/mesos-compose/)
 - [Apache Mesos provider for Apache Airflow](https://www.aventer.biz/products/apache-airflow/)
