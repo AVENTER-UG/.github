@@ -51,4 +51,3 @@ Here are some ideas to get you started:
 Thanks so much to my sponsors. 
 
 - (Private) enfyrneaux
-- (Company) FERP
