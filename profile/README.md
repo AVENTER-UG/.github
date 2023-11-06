@@ -24,11 +24,7 @@ We are just me (Andreas), a single person. 😄
 - [Docker Volume service for S3](https://www.aventer.biz/products/docker-volume-s3/)
 - [Docker Extension for Apache Mesos](https://www.aventer.biz/products/docker-mesos-extension/)
 - [Firecracker executor for Apache Mesos](https://www.aventer.biz/products/mesos-firecracker/)
-
-#### 🌱 Products in planning
-
-- eBPF service for Apache Mesos
-- Apache Mesos on SoC
+- [Tensorflow for Apache Mesos](https://github.com/AVENTER-UG/tensorflow-mesos/)
 
 
 <!--
