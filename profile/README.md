@@ -1,8 +1,6 @@
-# AVENTER UG (haftungsbeschränkt)
+#### 🤷 Who I'm:
 
-#### 🤷 Who we are:
-
-We are just me (Andreas), a single person. 😄
+I'm Andreas, a Software Developer/Architect and Linux Admin.
 
 #### 📫 How to reach me:
 
