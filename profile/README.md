@@ -10,7 +10,8 @@ I'm Andreas, a Software Developer/Architect and Linux Admin.
   - Xing: https://www.xing.com/profile/Andreas_Peters35
   - LinkedIn: https://www.linkedin.com/in/aventer-ug/
   - Docker Hub: https://hub.docker.com/u/avhost
-  - [:heart: Github Sponsor](https://github.com/sponsors/AVENTER-UG) 
+  - [:heart: Github Sponsor](https://github.com/sponsors/AVENTER-UG)
+  - [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=H553XE4QJ9GJ8)
 
 #### 🔭Products under development 
 
