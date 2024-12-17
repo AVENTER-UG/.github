@@ -41,9 +41,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 😊 Sponsors
-
-Thanks so much to my sponsors. 
+#### 🙏 Thanks so much for your donation
 
 - (Private) enfyrneaux
 
