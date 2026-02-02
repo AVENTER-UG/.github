@@ -2,6 +2,10 @@
 
 I'm Andreas, a Software Developer/Architect and Linux Admin.
 
+#### 🛡️ AI-Free Development Declaration
+
+My projects are designed and implemented *exclusively* by humans. No generative AI–produced code was directly incorporated.
+
 #### 📫 How to reach me:
 
   - WebSite: https://www.aventer.biz
