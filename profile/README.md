@@ -28,13 +28,6 @@ Throughout my professional career, I have gained extensive experience both in so
 - [Firecracker executor for Apache Mesos](https://github.com/AVENTER-UG/mesos-firecracker-executor)
 - [Tensorflow for Apache Mesos](https://github.com/AVENTER-UG/tensorflow-mesos/)
 
-#### 🛡️ AI-Free Development Declaration
-
-My projects are designed and implemented *exclusively* by humans.
-
-<img src="human_code_no_ai.png" width="200" alt="Human code, no ai">
-
-
 <!--
 **andreaspeters/andreaspeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
